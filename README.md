@@ -1,1 +1,1 @@
-# medivision-pneumonia-detector
+# Medivision-pneumonia-detector
